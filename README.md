@@ -1,2 +1,2 @@
 # Minicurso
-Minicurso - como consumir a API do Rick And Morty
+Minicurso - Como consumir a API do Rick And Morty
